@@ -42,7 +42,9 @@ Gifts push the reveal one letter further to help the crowd close in, but never u
 
 The first viewer to type the complete word wins the round early with a bonus, gets read aloud, and tops the round and session leaderboards, then a fresh word begins after a short break. Run it on a per-round timer or play until solved, tune the scoring, and pick from twelve languages, each with its own native bank of two thousand or more words so nothing repeats until the whole bank cycles.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Find the Word running on a TikTok Live" width="320">
 
 [Watch Find the Word gameplay](https://cdn.livecade.io/games/find-the-word.mp4)
 
